@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.codenation.DesafioMeuTimeApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-10-02T19:05:25" hostname="DESKTOP-TTOHAFA" time="0.041">
+  <properties/>
+  <testcase name="metodo" classname="br.com.codenation.DesafioMeuTimeApplicationTest" time="0.041"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
